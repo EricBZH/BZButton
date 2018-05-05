@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
 
 
   s.name         = "BZButton"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.summary      = "xib control button image and text"
 
   s.description  = <<-DESC
@@ -18,6 +18,6 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '8.0'
   s.requires_arc = true
 
-  s.source_files  = "BZButton","BZButton/Classes/*.{h,m}"
+  s.source_files = "BZButton/Classes/*.{h,m}"
 
 end
