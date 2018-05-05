@@ -1,6 +1,6 @@
 //
-//  BZButtonUITests.m
-//  BZButtonUITests
+//  BZButtonDemoUITests.m
+//  BZButtonDemoUITests
 //
 //  Created by Eric on 2018/5/5.
 //  Copyright © 2018年 Eric. All rights reserved.
@@ -8,11 +8,11 @@
 
 #import <XCTest/XCTest.h>
 
-@interface BZButtonUITests : XCTestCase
+@interface BZButtonDemoUITests : XCTestCase
 
 @end
 
-@implementation BZButtonUITests
+@implementation BZButtonDemoUITests
 
 - (void)setUp {
     [super setUp];

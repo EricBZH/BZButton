@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:BZButton.xcodeproj">
+      location = "self:BZButtonDemo.xcodeproj">
    </FileRef>
 </Workspace>

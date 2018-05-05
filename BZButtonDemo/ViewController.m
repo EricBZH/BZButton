@@ -1,6 +1,6 @@
 //
 //  ViewController.m
-//  BZButton
+//  BZButtonDemo
 //
 //  Created by Eric on 2018/5/5.
 //  Copyright © 2018年 Eric. All rights reserved.
@@ -18,6 +18,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
 }
+
 
 - (IBAction)btnClicked:(BZButton *)sender {
     sender.selected = !sender.selected;
